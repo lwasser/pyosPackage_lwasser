@@ -1,4 +1,4 @@
-# <img src="https://www.pyopensci.org/images/logo.png" width=100 />  Welcome to pyosPackage
+# <img src="https://www.pyopensci.org/images/logo.png" width=100 />  Welcome to pyosPackage repository
 
 This repository supports pyOpenSci workshops focused on Python packaging.
 
